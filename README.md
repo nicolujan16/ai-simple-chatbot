@@ -1,4 +1,4 @@
-# LangGraph Tutorial
+# Simple AI Chatbot
 
 [Leer en español](README.es.md)
 
@@ -14,7 +14,7 @@ A simple terminal chatbot built with [LangGraph](https://github.com/langchain-ai
 
 ```bash
 git clone https://github.com/nicolujan16/ai-simple-chatbot.git
-cd langGraph-tutorial
+cd ai-simple-chatbot
 uv sync
 ```
 
