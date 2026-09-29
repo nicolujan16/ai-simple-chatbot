@@ -1,0 +1,16 @@
+[project]
+name = "langgraph-tutorial"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "nicolujan16", email = "nico512lujan@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "langchain>=1.4.3",
+    "langchain-openai>=1.6.6",
+    "langchain-tavily>=0.2.18",
+    "langgraph>=1.2.12",
+    "python-dotenv>=1.2.3",
+]
